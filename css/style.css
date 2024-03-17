@@ -118,7 +118,7 @@
 	background-color: #FAFAFA;
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 769px) {
 	.footer__item {
 		width: 45%;
 		margin: 3% auto;
