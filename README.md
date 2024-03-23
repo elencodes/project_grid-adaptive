@@ -1,1 +1,1 @@
-# project_grid_-adaptive-
+# project_grid-adaptive
